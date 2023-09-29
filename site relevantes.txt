@@ -1,0 +1,11 @@
+https://proferic.notion.site/proferic/Interface-Gr-fica-no-Python-com-PySimpleGUI-063179225d4840d8943371967c72792c
+
+https://docs.google.com/presentation/d/1v-rUoJKHI-pvx_5twSDgG1kZz83rLuKObhcm0ZAsgRg/edit?pli=1#slide=id.g27cf2b50d25_0_76
+
+documentação 
+https://www.pysimplegui.org/en/latest/#radio-button-element
+https://numba.readthedocs.io/en/stable/user/5minguide.html
+https://superfastpython.com/threading-in-python/
+
+
+
